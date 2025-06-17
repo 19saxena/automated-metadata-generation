@@ -1,0 +1,7 @@
+flask
+streamlit
+pdfminer.six
+python-docx
+pytesseract
+requests
+pytest
