@@ -5,6 +5,7 @@ def batch_process(directory):
     for filename in os.listdir(directory):
         with open(os.path.join(directory, filename), 'rb') as f:
             text = extract_text(f)
+            f.seek(0)
             metadata = generate_metadata(text)
             print(f"{filename}: {metadata}")
 
