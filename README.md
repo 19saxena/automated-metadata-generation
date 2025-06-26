@@ -31,10 +31,6 @@ automated-metadata-generation/
 ├── requirements.txt
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ##  Setup Instructions
