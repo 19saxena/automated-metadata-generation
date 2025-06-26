@@ -1,4 +1,5 @@
 #  Automated Metadata Generator
+# Demo Video Link: https://drive.google.com/file/d/1iJFokYGgd3hGm0o_j7udVbbQPL_zOgM0/view?usp=drive_link
 
 This project enables intelligent metadata extraction from various document types including PDFs, DOCX, TXT, and images using a **Flask + Streamlit** app and a powerful backend powered by NLP models.
 
